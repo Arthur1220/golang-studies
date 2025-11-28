@@ -1,0 +1,22 @@
+28/11/2025 19:11:33 - https://www.github.com/ - true
+p/ - true
+28/11/2025 19:12:32 - https://brcosimple.netlify.app/ - true
+28/11/2025 19:12:32 - https://portfolioama.netlify.app/ - true
+28/11/2025 19:12:32 - https://www.google.com/ - true
+28/11/2025 19:12:32 - https://www.github.com/ - true
+28/11/2025 19:12:37 - https://brcosimple.netlify.app/ - true
+28/11/2025 19:12:37 - https://portfolioama.netlify.app/ - true
+28/11/2025 19:12:38 - https://www.google.com/ - true
+28/11/2025 19:12:38 - https://www.github.com/ - true
+28/11/2025 19:12:43 - https://brcosimple.netlify.app/ - true
+28/11/2025 19:12:43 - https://portfolioama.netlify.app/ - true
+28/11/2025 19:12:43 - https://www.google.com/ - true
+28/11/2025 19:12:43 - https://www.github.com/ - true
+28/11/2025 19:13:59 - https://brcosimple.netlify.app/ - online: true
+28/11/2025 19:13:59 - https://portfolioama.netlify.app/ - online: true
+28/11/2025 19:13:59 - https://www.google.com/ - online: true
+28/11/2025 19:14:00 - https://www.github.com/ - online: true
+28/11/2025 19:14:05 - https://brcosimple.netlify.app/ - online: true
+28/11/2025 19:14:05 - https://portfolioama.netlify.app/ - online: true
+28/11/2025 19:14:05 - https://www.google.com/ - online: true
+28/11/2025 19:14:05 - https://www.github.com/ - online: true
