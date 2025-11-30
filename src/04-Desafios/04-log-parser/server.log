@@ -1,0 +1,8 @@
+INFO: Servidor iniciado na porta 8080
+ERROR: Falha na conexão com o banco de dados
+INFO: Usuário logado: admin
+ERROR: Timeout na requisição API externa
+INFO: Health check OK
+ERROR: Erro ao processar pagamento
+ERROR: Falha ao enviar email de confirmação
+INFO: Servidor finalizado com sucesso

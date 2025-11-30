@@ -1,0 +1,6 @@
+ERROR: Falha na conexão com o banco de dados
+ERROR: Timeout na requisição API externa
+ERROR: Falha na conexão com o banco de dados
+ERROR: Timeout na requisição API externa
+ERROR: Erro ao processar pagamento
+ERROR: Falha ao enviar email de confirmação
