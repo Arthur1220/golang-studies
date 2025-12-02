@@ -1,0 +1,15 @@
+/* assets/style.css */
+body {
+    background-color: #f4f6f9 !important; /* Um cinza azulado muito leve */
+}
+
+.card {
+    border-radius: 10px; /* Arredonda mais as bordas */
+    overflow: hidden;
+}
+
+/* Efeito ao passar o mouse nas linhas da tabela */
+.table-hover tbody tr:hover {
+    background-color: rgba(0, 0, 0, 0.02);
+    transition: 0.3s;
+}

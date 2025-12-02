@@ -1,0 +1,46 @@
+{{define "Edit"}}
+{{template "_header"}}
+
+<div class="row justify-content-center">
+    <div class="col-md-8 col-lg-6">
+        <div class="card shadow">
+            <div class="card-header bg-white py-3">
+                <h4 class="h5 mb-0">Editar Produto</h4>
+            </div>
+            <div class="card-body">
+                <form method="POST" action="update">
+                    <input type="hidden" name="id" value="{{.Id}}">
+
+                    <div class="mb-3">
+                        <label class="form-label">Nome</label>
+                        <input type="text" name="nome" class="form-control" value="{{.Nome}}" required>
+                    </div>
+                    
+                    <div class="mb-3">
+                        <label class="form-label">Descrição</label>
+                        <textarea name="descricao" class="form-control" rows="3">{{.Descricao}}</textarea>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-md-6 mb-3">
+                            <label class="form-label">Preço</label>
+                            <input type="number" name="preco" class="form-control" step="0.01" value="{{.Preco}}" required>
+                        </div>
+                        <div class="col-md-6 mb-3">
+                            <label class="form-label">Quantidade</label>
+                            <input type="number" name="quantidade" class="form-control" value="{{.Quantidade}}" required>
+                        </div>
+                    </div>
+
+                    <div class="d-grid gap-2 d-md-flex justify-content-md-end mt-4">
+                        <a href="/" class="btn btn-light me-md-2">Cancelar</a>
+                        <button type="submit" class="btn btn-primary">Atualizar</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+{{template "_footer"}}
+{{end}}
