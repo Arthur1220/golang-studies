@@ -22,21 +22,21 @@ Para facilitar a navegação, a documentação foi dividida em módulos:
     * Pacotes e Encapsulamento
     * Interfaces e Polimorfismo
 
-* **[🌐 Aplicações Web e MVC](./src/03-Web/01/README.MD)**
+* **[🌐 Aplicações Web e MVC](./src/03-Web/README.MD)**
     * Servidor HTTP (`net/http`) e Rotas
     * Conexão com Banco de Dados (PostgreSQL)
     * Padrão MVC (Model-View-Controller)
     * Renderização de Templates HTML
     * CRUD Completo e Melhores Práticas
 
-* **[🚀 APIs RESTful com Docker](./src/04-API/01/README.MD)**
+* **[🚀 APIs RESTful com Docker](./src/04-API/README.MD)**
     * Roteamento Avançado com `Gorilla Mux`
     * Middlewares e Manipulação de JSON
     * Introdução ao ORM (`GORM`)
     * Containerização com Docker & Docker Compose
     * Orquestração de Banco de Dados (Postgres + pgAdmin)
 
-* **[🍸 Frameworks Web Modernos (Gin)](./src/05-Gin-Go/01/README.MD)**
+* **[🍸 Frameworks Web Modernos (Gin)](./src/05-Gin-Go/README.MD)**
     * Introdução ao **Gin Framework**
     * Comparativo de Performance e Produtividade
     * Validação de Dados (Binding) e Contexto
