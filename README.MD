@@ -28,6 +28,20 @@ Para facilitar a navegação, a documentação foi dividida em módulos:
     * Padrão MVC (Model-View-Controller)
     * Renderização de Templates HTML
     * CRUD Completo e Melhores Práticas
+
+* **[🚀 APIs RESTful com Docker](./src/04-API/01/README.MD)**
+    * Roteamento Avançado com `Gorilla Mux`
+    * Middlewares e Manipulação de JSON
+    * Introdução ao ORM (`GORM`)
+    * Containerização com Docker & Docker Compose
+    * Orquestração de Banco de Dados (Postgres + pgAdmin)
+
+* **[🍸 Frameworks Web Modernos (Gin)](./src/05-Gin-Go/01/README.MD)**
+    * Introdução ao **Gin Framework**
+    * Comparativo de Performance e Produtividade
+    * Validação de Dados (Binding) e Contexto
+    * API RESTful Otimizada com GORM
+    * Tratamento de Erros e Respostas JSON
 ---
 
 ### 🔗 Recursos Oficiais
