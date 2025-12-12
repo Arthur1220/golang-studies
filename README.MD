@@ -42,6 +42,12 @@ Para facilitar a navegação, a documentação foi dividida em módulos:
     * Validação de Dados (Binding) e Contexto
     * API RESTful Otimizada com GORM
     * Tratamento de Erros e Respostas JSON
+
+* **[✅ Validação, Testes e Frontend](./src/06-Validacao-Teste-Mais/01/README.MD)**
+    * Implementação de **Validação** de Structs (CPF/RG)
+    * Criação de **Testes Automatizados** (Unitários e Integração)
+    * Uso de `net/http/httptest` para rotas.
+    * Servindo Arquivos Estáticos e **Templates HTML** (Frontend).
 ---
 
 ### 🔗 Recursos Oficiais
